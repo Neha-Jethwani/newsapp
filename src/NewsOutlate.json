@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matthew Cappucci, Paulina Firozi",
+            "title": "Major snow, ice storm plastering mid-South, Midwest - The Washington Post",
+            "description": "Winter storm and ice storm warnings stretch from New Mexico to Canada.",
+            "url": "https://www.washingtonpost.com/weather/2022/02/02/snow-ice-storm-midwest-east/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YJ6VVMEEIII6ZFI4DYGMG4R6KM.jpg&w=1440",
+            "publishedAt": "2022-02-02T18:31:25Z",
+            "content": "Cities including Dallas, Memphis and Little Rock are likely to experience ice storm conditions and face potential power outages, while regions farther north will pick up heavy snow. A light glaze of … [+9849 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Stelter and Oliver Darcy, CNN Business",
+            "title": "CNN President Jeff Zucker resigns over consensual relationship with key lieutenant - CNN",
+            "description": "CNN Worldwide president Jeff Zucker, the influential news executive who reshaped the iconic network, announced Wednesday morning that he has resigned from his position effective immediately.",
+            "url": "https://www.cnn.com/2022/02/02/media/jeff-zucker-cnn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220202115214-jeff-zucker-2019-file-restricted-super-tease.jpg",
+            "publishedAt": "2022-02-02T18:31:00Z",
+            "content": "New York (CNN Business)CNN Worldwide president Jeff Zucker, the influential news executive who reshaped the iconic network, announced Wednesday morning that he has resigned from his position effectiv… [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland, CNN",
+            "title": "NASA's Artemis 1 final prelaunch test delayed until March - CNN",
+            "description": "The final prelaunch test of Artemis I, an uncrewed mission serving as the first step of NASA's ambitious program to return humans to the moon, has been delayed until mid-March, according to the agency.",
+            "url": "https://www.cnn.com/2022/02/02/world/nasa-artemis-1-test-delay-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220202101332-nasa-artemis-mission-2020-file-super-tease.jpg",
+            "publishedAt": "2022-02-02T18:16:00Z",
+            "content": "(CNN)The final prelaunch test of Artemis I, an uncrewed mission serving as the first step of NASA's ambitious program to return humans to the moon, has been delayed until mid-March, according to the … [+3651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Press Herald"
+            },
+            "author": null,
+            "title": "Gorham, Westbrook residents concerned for Ukrainian, Russian family, friends - pressherald.com",
+            "description": "Locals with ties to the two countries say neither side wants a war.",
+            "url": "https://www.pressherald.com/2022/02/02/gorham-westbrook-residents-concerned-for-ukrainian-russian-family-friends/",
+            "urlToImage": "https://multifiles.pressherald.com/uploads/sites/10/2022/02/Banner-for-Ukrauine-story.jpg",
+            "publishedAt": "2022-02-02T18:02:26Z",
+            "content": "Dan Glover of Westbrook, right, took part in a demonstration Jan. 28 in Portland. Glover is a member of the sister city group representing Greater Portland and Archangel, Russia. Contributed / Lisa S… [+3214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian sport",
+            "title": "Washington’s NFL team announce new name will be the Commanders - The Guardian",
+            "description": "Washington’s NFL team has ended its search for a new name with the announcement that the franchise will now be known as the Commanders",
+            "url": "https://amp.theguardian.com/sport/2022/feb/02/washington-football-team-new-name-commanders-nfl",
+            "urlToImage": null,
+            "publishedAt": "2022-02-02T17:57:00Z",
+            "content": "Washington Commanders<ul><li>Team replaced former name after decades of opposition</li><li>New name is a reference to the citys military links</li></ul>\r\nWashingtons NFL team has ended its 18-month s… [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "Using melatonin for sleep is on the rise, study says, despite potential health harms - KSL.com",
+            "description": "More and more adults are taking over-the-counter melatonin to get to sleep, and some of them may be using it at dangerously high levels, a new study has found.",
+            "url": "https://www.ksl.com/article/50339450/using-melatonin-for-sleep-is-on-the-rise-study-says-despite-potential-health-harms",
+            "urlToImage": "https://img.ksl.com/slc/2862/286212/28621269.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-02-02T17:10:05Z",
+            "content": "Estimated read time: 6-7 minutes\r\nWASHINGTON More and more adults are taking over-the-counter melatonin to get to sleep, and some of them may be using it at dangerously high levels, a new study has f… [+6353 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "U.S. deploys troops to Eastern Europe; thousands more on standby - POLITICO",
+            "description": "President Joe Biden is sending about 2,000 troops to Poland and Germany this week and shifting roughly 1,000 Germany-based soldiers to Romania.",
+            "url": "https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/850ac064-c228-4d10-8fa9-487bdae6bac2/29b4973d-aa14-4d59-8f1c-1470decede9d/1280x720/match/image.jpg",
+            "publishedAt": "2022-02-02T17:01:11Z",
+            "content": "The majority of soldiers, around 1,700, will be sent to Poland in a deployment that Polish Minister of National Defense Mariusz Baszczak said Wednesday is \"a strong message of solidarity in response … [+7123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Peter Bradshaw",
+            "title": "Jackass Forever review – unstoppable comedy stunt show still has a sting in its tail - The Guardian",
+            "description": "The gang are back with more fantastically pointless and bad-taste feats involving bears, bulls, scorpions and spiders",
+            "url": "https://amp.theguardian.com/film/2022/feb/02/jackass-forever-review-unstoppable-comedy-stunt-show-still-has-a-sting-in-its-tail",
+            "urlToImage": null,
+            "publishedAt": "2022-02-02T17:01:00Z",
+            "content": "FilmThe gang are back with more fantastically pointless and bad-taste feats involving bears, bulls, scorpions and spiders\r\nTwenty years on, after innumerable TV series and spin-offs, lawsuits and mov… [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Chip Patterson",
+            "title": "National Signing Day 2022: Live updates, college football recruiting rankings, top class rankings - CBSSports.com",
+            "description": "Watch live signing day coverage for the Class of 2022 and follow the latest college football recruiting updates",
+            "url": "https://www.cbssports.com/college-football/news/national-signing-day-2022-live-updates-college-football-recruiting-rankings-top-class-rankings/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/01/ae9a5050-57f6-496a-8764-9690e3e55c07/thumbnail/1200x675/2b40707569023d53f143450b63d67091/2022signingdaycover-story.png",
+            "publishedAt": "2022-02-02T16:35:33Z",
+            "content": "The final opportunity for high school prospects to lock up scholarships and formally sign National Letters of Intent begins Wednesday with the traditional National Signing Day for the Class of 2022. … [+1655 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Michael McWhertor",
+            "title": "PlayStation-Bungie deal: 10 live-service games coming from Sony by 2026 - Polygon",
+            "description": "Sony’s acquisition of Bungie is more than just Destiny: PlayStation Studios plans to launch 10 live-service games in the next four years.",
+            "url": "https://www.polygon.com/22914172/sony-playstation-bungie-acquisition-new-live-service-games",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-IF9BdhdOcu51EopIKf72L09YhE=/0x70:1920x1075/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22748419/2021_Season_of_the_Splicer_Press_Kit_Tower02.jpg",
+            "publishedAt": "2022-02-02T16:25:00Z",
+            "content": "Sony Interactive Entertainment may be best known for its marquee single-player-focused games like God of War, The Last of Us, Spider-Man, Uncharted, and Horizon these days, but the PlayStation compan… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Gina Kolata",
+            "title": "A Cancer Treatment Makes Leukemia Vanish, but Creates More Mysteries - The New York Times",
+            "description": "Two early recipients of CAR T immunotherapy were free of a blood cancer nearly a decade after receiving the therapy.",
+            "url": "https://www.nytimes.com/2022/02/02/health/leukemia-car-t-immunotherapy.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/02/science/02leukemia1/02leukemia1-facebookJumbo.jpg",
+            "publishedAt": "2022-02-02T16:00:12Z",
+            "content": "After the CD8 cells did their job, they remained in the blood but, unexpectedly, they turned into CD4 cells. And when the Penn investigators removed CD4 cells from the blood of Mr. Ludwig and Mr. Ols… [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "DeepMind says its new AI coding engine is as good as an average human programmer - The Verge",
+            "description": "Alphabet’s AI lab DeepMind says it’s created an AI coding engine that is as good as the average human programmer. However, the system was only tested on specific coding challenges that do not reflect real-world tasks.",
+            "url": "https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2_fYPSyvvHSDJ0NIvrahsyHWiO8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
+            "publishedAt": "2022-02-02T16:00:00Z",
+            "content": "AlphaCode is good, but not great not yet\r\nIllustration by Alex Castro / The Verge\r\nDeepMind has created an AI system named AlphaCode that it says writes computer programs at a competitive level. The … [+5494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Starbucks CEO says airport cafe closures, low traffic to offices weighed on Chinese sales - CNBC",
+            "description": "Reduced international travel and low traffic to office buildings weighed on Starbucks' same-store sales in China, according to CEO Kevin Johnson.",
+            "url": "https://www.cnbc.com/2022/02/02/starbucks-ceo-kevin-johnson-on-why-chinese-sales-were-weak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106042988-1564155162202gettyimages-1009363064.jpeg?v=1581592894",
+            "publishedAt": "2022-02-02T15:55:53Z",
+            "content": "Reduced international travel and low traffic to office buildings weighed on Starbucks' same-store sales in China, CEO Kevin Johnson said Wednesday.\r\n\"Our stores that are in airports in the internatio… [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Elyse Dupre",
+            "title": "Michael Jackson's Kids Paris, Prince and Bigi Make Rare Joint Appearance - E! NEWS",
+            "description": "Michael Jackson's kids Paris, Prince and Bigi attended the Broadway opening of MJ: The Musical in New York on Tuesday, Feb. 1. Scroll on to see photos from their rare joint public appearance.",
+            "url": "https://www.eonline.com/news/1318358/michael-jacksons-kids-paris-prince-and-bigi-make-rare-joint-appearance",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202212/rs_1200x1200-220202052716-1200-Paris-Prince-Jackson-LT-20222-shutterstock_editorial_12785612h.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-02-02T15:49:00Z",
+            "content": "Oh, the way this family outing makes us feel.\r\nIn celebration of MJ: The Musical's Broadway opening on Feb. 1, Michael Jackson's kids gifted fans with a rare public appearance together. Wearing a red… [+1143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "How-To Geek"
+            },
+            "author": "Dave LeClair",
+            "title": "You Can Download Wordle and Keep It Free Forever - How-To Geek",
+            "description": "Everyone has been obsessed with Wordle lately. However, that obsession may have turned to apprehension when it was purchased by The New York Times. Fear not, though, because you can download the original Wordle through your browser and keep it free no matter …",
+            "url": "https://www.howtogeek.com/783557/you-can-download-wordle-and-keep-it-free-forever/",
+            "urlToImage": "https://www.howtogeek.com/wp-content/uploads/2022/01/Wordle-featured.jpg?height=200p&trim=2,2,2,2",
+            "publishedAt": "2022-02-02T15:45:20Z",
+            "content": "Everyone has been obsessed with Wordle lately. However, that obsession may have turned to apprehension when it was purchased by The New York Times. Fear not, though, because you can download the orig… [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 29 News Philadelphia"
+            },
+            "author": "FOX TV Digital Team",
+            "title": "Groundhog Day 2022: Punxsutawney Phil sees shadow, predicts 6 more weeks of winter - FOX 5 DC",
+            "description": "Punxsutawney Phil emerged on Groundhog Day 2022 and saw his shadow, suggesting that six more weeks of winter looms.",
+            "url": "https://www.fox29.com/news/groundhog-day-2022-live-watch-punxsutawney-phil-make-his-prediction",
+            "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/02/1280/720/GettyImages-1198083151.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-02T15:33:15Z",
+            "content": "PUNXSUTAWNEY, Pa. - Punxsutawney Phil, arguably one of the most famous groundhogs, awoke Tuesday morning and did not see his shadow — which, according to folklore, means there will be six more weeks … [+4464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Connor Smith",
+            "title": "Alphabet Stock Is Soaring After an Impressive Earnings Beat - Barron's",
+            "description": "The Google parent reported fourth-quarter sales of $75.3 billion, up 32% year over year. The company also announced a 20-for-1 stock split.",
+            "url": "https://www.barrons.com/articles/alphabet-google-earnings-stock-51643747233",
+            "urlToImage": "https://images.barrons.com/im-477691/social",
+            "publishedAt": "2022-02-02T15:22:00Z",
+            "content": "Alphabet\r\ncrushed expectations and announced plans for a 20-for-1 stock split after the market closed on Tuesday. Investors liked what they saw.The Google parent reported fourth-quarter sales of $75.… [+3149 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Liyan Qi, Keith Zhai, Lam Le",
+            "title": "China Fortifies Its Borders With a ‘Southern Great Wall,’ Citing Covid-19 - The Wall Street Journal",
+            "description": "Barbed wire, lights and cameras spring up, changing life for locals and making trade cumbersome",
+            "url": "https://www.wsj.com/articles/china-fortifies-its-borders-with-a-southern-great-wall-citing-covid-19-11643814716",
+            "urlToImage": "https://images.wsj.net/im-478042/social",
+            "publishedAt": "2022-02-02T15:11:00Z",
+            "content": "An extensive buildup of barriers along Chinas 3,000-mile southern border is under way, according to public documents, official statements and interviews with residents, ostensibly to battle Covid-19 … [+273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Dying Light 2 - 4 Player Co-op Gameplay - IGN",
+            "description": "The campaign is fun in single-player, but Dying Light 2 4-Player Co-op is where the game gets really zany! Check out this gameplay clip!The story may preserv...",
+            "url": "https://www.youtube.com/watch?v=inetjGIjKGU",
+            "urlToImage": "https://i.ytimg.com/vi/inetjGIjKGU/maxresdefault.jpg",
+            "publishedAt": "2022-02-02T15:00:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France, CNN",
+            "title": "Adele to perform at the Brit Awards. Some fans would prefer Las Vegas - CNN",
+            "description": "Weeks after she announced the postponement of her eagerly awaited Las Vegas residency, Adele has shared a few places where she can be seen.",
+            "url": "https://www.cnn.com/2022/02/02/entertainment/adele-appearances/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211201193442-adele-super-tease.jpg",
+            "publishedAt": "2022-02-02T14:58:00Z",
+            "content": null
+        }
+    ]
+}
